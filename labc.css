@@ -7,9 +7,9 @@
   margin: 40;
 }
 .image-container{
-  border: 2px solid #000; /* 2px solid black border */
+  border: 4px solid #22c0;
 }
-.image-with-padding {
+.image-container{
   padding: 20px;
 }
 .i-love-pringles{
